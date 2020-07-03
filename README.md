@@ -1,5 +1,5 @@
 # Yelp-Camp-App
-This application allows the users to add popular campgrounds they have visited, comment on them.
+This application allows the users to add popular campgrounds they have visited, comment on them. Add Geocoder API key to the .env file and the Google maps API key to show.ejs file at Yelp-Camp-App/v10/views/campgrounds/.
 
 Some of the tools used are:
 
